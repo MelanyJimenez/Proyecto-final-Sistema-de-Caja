@@ -1,0 +1,26 @@
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\bin\Debug\net10.0-windows\Sistema de caja.exe
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\bin\Debug\net10.0-windows\Sistema de caja.deps.json
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\bin\Debug\net10.0-windows\Sistema de caja.runtimeconfig.json
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\bin\Debug\net10.0-windows\Sistema de caja.dll
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\bin\Debug\net10.0-windows\Sistema de caja.pdb
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema_de_caja.FormLogin.resources
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema_de_caja.Properties.Resources.resources
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema de caja.csproj.GenerateResource.cache
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema de caja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema de caja.AssemblyInfoInputs.cache
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema de caja.AssemblyInfo.cs
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema de caja.csproj.CoreCompileInputs.cache
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema de caja.dll
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\refint\Sistema de caja.dll
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema de caja.pdb
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema de caja.genruntimeconfig.cache
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\ref\Sistema de caja.dll
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema de caja.csproj.AssemblyReference.cache
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema_de_caja.FormCaja.resources
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema .4E160412.Up2Date
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema_de_caja.FormRegistrarse.resources
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema_de_caja.FormProductos.resources
+C:\Users\melan\source\repos\Sistema de caja\Sistema de caja\obj\Debug\net10.0-windows\Sistema_de_caja.FormReportes.resources
