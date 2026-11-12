@@ -14,8 +14,9 @@ namespace Sistema_de_caja
         private double precio;
         private int stock;
         private string categoria;
+        private int idUsuario;
 
-        public Producto(int Id, string CodBarras, string Descripcion, double Precio, int Stock, string Categoria) 
+        public Producto(int Id, string CodBarras, string Descripcion, double Precio, int Stock, string Categoria, int idUsuario)
         {
             id = Id;
             codBarras = CodBarras;
@@ -23,11 +24,35 @@ namespace Sistema_de_caja
             precio = Precio;
             stock = Stock;
             categoria = Categoria;
+            this.idUsuario = idUsuario;
         }
-
-        public int ObtenerId() 
-        { 
-            return id; 
+        public int ObtenerIdUsu()
+        {
+            return idUsuario;
+        }
+        public int ObtenerId()
+        {
+            return id;
+        }
+        public string ObtenerCodBarras()
+        {
+            return codBarras;
+        }
+        public string ObtenerDescripcion()
+        {
+            return descripcion;
+        }
+        public double ObtenerPrecio()
+        {
+            return precio;
+        }
+        public int ObtenerStock()
+        {
+            return stock;
+        }
+        public string ObtenerCategoria()
+        {
+            return categoria;
         }
         public string CodigoB(string codBarras)
         {
@@ -63,6 +88,18 @@ namespace Sistema_de_caja
                 throw new ArgumentException("Es obligatorio ingresar");
             }
             return stock.Trim();
+        }
+
+        public void DescontarStock(int cantidad)
+        {
+            if (cantidad <= 0)
+            {
+                throw new ArgumentException("La cantidad a descontar debe ser mayor a 0");
+            }
+            if (stock -  cantidad < 0)
+            {
+                throw new ArgumentException("NO hay stock suficiente");
+            }
         }
     }
 }
